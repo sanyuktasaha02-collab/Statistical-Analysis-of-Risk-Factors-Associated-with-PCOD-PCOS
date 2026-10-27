@@ -1,5 +1,5 @@
 # Statistical-Analysis-of-Risk-Factors-Associated-with-PCOD-PCOS
-================================================================================
+
 FACTORS ASSOCIATED WITH POLYCYSTIC OVARY SYNDROME (PCOS):
 AN ANALYTICAL CROSS-SECTIONAL STUDY
 ================================================================================
